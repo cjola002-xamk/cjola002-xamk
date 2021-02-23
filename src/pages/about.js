@@ -1,11 +1,12 @@
-import React from "react"
+import React from "react";
 
+import Laskuri from '../components/Laskuri'
 
 const about = () => {
 
-    return(
-        <h1>About me</h1>
-    )
+return (
+    <Laskuri />
+)
 }
 
 export default about;
