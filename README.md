@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjola002-xamk
-- 👀 I’m interested in Linux, Coding and Cybersecurity
-- 🌱 I’m currently learning React / Web Dev
-- 📫 You can reach me in [Linkedin](https://www.linkedin.com/in/joni-laakso/) or [Instagram](https://www.instagram.com/jonseredix/)
+- 👀 I’m interested in Linux, Programming and Web Dev
+- 🌱 I’m currently learning Python
+- 📫 You can reach me in [Linkedin](https://www.linkedin.com/in/joni-laakso/)
 
 <!---
 cjola002-xamk/cjola002-xamk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
